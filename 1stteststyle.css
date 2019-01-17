@@ -3,13 +3,13 @@ body {
 }
 
 
-.container-fluid {
+.image-container-fluid {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
 
-.container {
+.description, .video-container {
 	display: flex;
 	justify-content: center;
 }
@@ -23,8 +23,6 @@ body {
 	display: flex;
 	justify-content: center;
 }
-
-
 
 
 img {
